@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafi 😄 </h1>
 
-
-
-- 🔭 I’m currently working on **JavaScript**
  
 - 🌱 I’m currently learning **ReactJS, Laravel and Python**
  
@@ -12,7 +9,7 @@
 
 - 💬 Ask me about *ReactJS*.
 
-- 📫 How to reach me: **rafim166@gmail.com**
+- 📫 How to reach me: ***[Facebook](https://www.facebook.com/RaFi5050/)*** ***[linkedin](https://www.linkedin.com/in/mezbah-rafi-5083a3187/)***  ***[E-mail](rafim166@gmail.com)***
 
 - 😄 Pronouns: He/His 👦 
 
