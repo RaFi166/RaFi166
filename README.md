@@ -16,6 +16,6 @@
 
 - 😄 Pronouns: He/His 👦 
 
-- 🌱 I’m currently learning **JavaScript, Python and PHP**
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RaFi166&show_icons=true" alt="rafi :smile:" /></p>
