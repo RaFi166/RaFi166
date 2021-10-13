@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rafi 😄 </h1>
 
  
-- 🌱 I’m currently learning ***ReactJS*** and ***Python***
+- 🌱 I’m currently learning ***ReactJS***
  
 - 👯 I’m looking to collaborate on ***YouTube***
 
